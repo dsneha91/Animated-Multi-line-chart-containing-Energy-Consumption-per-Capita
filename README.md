@@ -31,6 +31,7 @@ When you launch Brackets, there is a Live preview button on the top right that l
 * MultiLine.js
 * MultiLineChartOutput.pdf
 
-# Dataset used: Data file contains Energy Consumption per Capita in Million BTUs per person for 11 year period from 2000 to 2010 for a large number of countries.
+# Dataset used: 
+Data file contains Energy Consumption per Capita in Million BTUs per person for 11 year period from 2000 to 2010 for a large number of countries.
 
  EPC_2000_2010_new.tsv
